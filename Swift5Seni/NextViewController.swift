@@ -9,10 +9,14 @@ import UIKit
 
 class NextViewController: UIViewController {
 
+    @IBOutlet weak var label2: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        
+        
+        
     }
     
 
